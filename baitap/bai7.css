@@ -1,0 +1,25 @@
+.all{
+    background-color: azure;
+    text-align: center;
+}
+.head{
+    color: aliceblue;
+    background-color: blue;
+}
+
+.id{
+    background-color: white;
+}
+
+.view{
+    color: white;
+    background-color: rgb(10, 219, 10);
+}
+.update{
+    color: white;
+    background-color: yellow;
+}
+.delete{
+    color: white;
+    background-color: red;
+}
