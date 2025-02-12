@@ -6,3 +6,7 @@ h4{
     border-left: 5px solid orange;
     background-color: burlywood;
 }
+
+p{
+    margin-left: 5px;
+}
